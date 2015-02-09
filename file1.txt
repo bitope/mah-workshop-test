@@ -1,3 +1,4 @@
 fil1
+Här kommer feature3
 buggfix för bug1234
 
