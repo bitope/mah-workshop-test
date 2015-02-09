@@ -1,1 +1,3 @@
 fil1
+buggfix för bug1234
+
