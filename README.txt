@@ -4,3 +4,4 @@ ny ändring igen
 fixat bugg#1234
 "dela saker till remote" 
 Feature2 
+Žndra lite till i Feature2 
